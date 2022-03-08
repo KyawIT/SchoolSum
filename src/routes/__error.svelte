@@ -43,6 +43,4 @@
     .err{
         height: 80vh;
     }
-    .title-err{
-    }
 </style>
